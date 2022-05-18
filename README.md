@@ -1,4 +1,5 @@
 # L2-SU
-Projets réalisé en L2 Sorbonne Université
+Project realized at Sorbonne University 
 
-Projet.zip : réalisation d'un programme en python sur les automates. 
+Projet.zip : Modelisation of automata in Python
+
