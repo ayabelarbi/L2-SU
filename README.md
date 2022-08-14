@@ -1,5 +1,5 @@
-# L2-SU
-Project realized at Sorbonne University 
+# University Project
+Here is a bunch of project realized at Sorbonne University 
 
 <ul>
   <ol> Projet.zip :<p> Discrete mathematics - Python -  Modelisation of automata : deterministic, finite . . . </p></ol>
